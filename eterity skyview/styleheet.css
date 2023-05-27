@@ -1,0 +1,116 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 0px;
+    font-size: medium;
+    background-color: orange;
+    color: black;
+}
+
+nav {
+    padding: 0%;
+    float: left;
+    width: 100%;
+}
+
+body main nav {
+    margin: 0%;
+    padding: 0%;
+    background-color: orange;
+}
+
+body main nav {
+    margin-left: 10px;
+    margin-top: 0%;
+}
+
+body main nav span a {
+    margin: 0px 50px 10px 50px;
+    list-style: none;
+    display: inline-block;
+    background-color: white;
+    border-style: none;
+    animation-duration: 4s;
+    border-radius: 25px;
+    padding: 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    padding: 10px;
+    color: black;
+}
+
+header {
+    padding: 0px 0px 0px 0px;
+    float: left;
+    width: 100%;
+    display: inline-flex;
+}
+
+header img {
+    width: 100%;
+}
+
+header img ul {
+    display: inline-block;
+    width: 100%;
+    list-style: none;
+    text-decoration: none;
+}
+
+header ul li {
+    color: black;
+}
+
+h2 {
+    width: 100%;
+    display: inline-flex;
+}
+
+header img {
+    width: 30%;
+    height: 70%;
+    float: left;
+    display: inline-flex;
+    padding-left: 0%;
+}
+
+body div {
+    margin: 50px 50px 20px 50px;
+}
+
+body div span a {
+    margin: 10px 50px 10px 50px;
+    display: inline;
+    width: 100%;
+    padding: 10px;
+    border-radius: 25px;
+    background-color: antiquewhite;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body header {
+    padding-top: 20px;
+    display: inline-flexbox;
+}
+
+body header div {
+    padding-left: 10px;
+}
+
+body header div ul li {
+    padding-left: 10px;
+    color: black;
+}
+
+BODY MAIN div section {
+    width: 100%;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+div h2 {
+    padding: left 10PX;
+    margin-left: 10px;
+    width: 100%;
+}
